@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Shuja Ahmed
 ### Future Software Engineer😎
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Shuja-Ahmed-Official.visitor-badge)
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/Shuja-Ahmed-Official/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
 
 My name is **Shuja** and I do open source projects just for fun (To make me happy).
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
