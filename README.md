@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Shuja Ahmed
 ### Future Software Engineer😎
 
-My name is **Shuja** and I do open source for fun.
+My name is **Shuja** and I do open source projects just for fun (To make me happy).
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
 Hopefully they can be useful to you as well.
 
+### Contact
 - If you want to contact me, join my [Discord server](https://discord.gg/9mjwNGJHWH).
 
 ### Socials
