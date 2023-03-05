@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./[github-header-image.png])
+
+![Header](./github-header-image.png)
+
 # 👋 Hi, I'm Shuja Ahmed
 ### Future Software Engineer😎
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Shuja-Ahmed-Official.visitor-badge)
