@@ -23,6 +23,7 @@ Hopefully they can be useful to you as well.
 
 ### Contact
 - If you want to contact me, join my [Discord server](https://discord.gg/9mjwNGJHWH).
+![](https://dcbadge.vercel.app/api/shield/754742219587584080)
 
 ### Socials
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9mjwNGJHWH)
