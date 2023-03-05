@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi 👋, I'm Shuja Ahmed</h1>
-<h2>Future Software Engineer<h2>
+<h1 align="center">Hi 👋, I'm Shuja Ahmed</h1>
+<h2 align="center">Future Software Engineer<h2>
 
 My name is **Shuja** and I do open source for fun.
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
