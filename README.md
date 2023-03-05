@@ -42,3 +42,13 @@ Hopefully they can be useful to you as well.
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Shuja-Ahmed-Official&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuja-Ahmed-Official&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
 </div>
+
+
+###
+
+<br clear="both">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+###
+
