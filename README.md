@@ -25,3 +25,9 @@ Hopefully they can be useful to you as well.
 [![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ShujaPlays)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shuja__Ahmed)
 [![Instagram](https://img.shields.io/badge/instagram-9F358B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shuja__plays)
+### Stats
+
+<div>
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Shuja-Ahmed-Official&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuja-Ahmed-Official&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+</div>
