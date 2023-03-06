@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Shuja Ahmed
 ### Future Software Engineer😎
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cool-dev-code.visitor-badge)
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/cool-dev-code/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+
 
 My name is **Shuja** and I do open source projects just for fun (To make me happy).
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
@@ -26,7 +26,6 @@ Hopefully they can be useful to you as well.
 
 ### Contact
 - If you want to contact me, join my [Discord server](https://discord.gg/9mjwNGJHWH).
-![](https://dcbadge.vercel.app/api/shield/754742219587584080)
 
 ### Socials
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9mjwNGJHWH)
