@@ -35,7 +35,7 @@ Hopefully they can be useful to you as well.
 [![Instagram](https://img.shields.io/badge/instagram-9F358B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shuja__plays)
 
 ### Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shuja-Ahmed-Official&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cool-dev-code&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
 
 ### Stats
 <div>
