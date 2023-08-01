@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Shuja Ahmed
 ### Future Software Engineer😎
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cool-dev-code.visitor-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=cool-dev-code)
 
 
 My name is **Shuja** and I do open source projects just for fun (To make me happy).
