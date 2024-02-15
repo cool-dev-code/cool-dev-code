@@ -45,8 +45,9 @@ Hopefully they can be useful to you as well.
 
 ###
 
+---
+<h4 align="center">- Contribution Snake! -</h4>
 <br clear="both">
-
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
