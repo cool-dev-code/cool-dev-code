@@ -1,16 +1,5 @@
 <!--
 **Shuja-Ahmed-Official/Shuja-Ahmed-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ![Header](./github-header-image.png)
@@ -19,10 +8,19 @@ Here are some ideas to get you started:
 ### Future Software Engineer😎
 ![Profile Views](https://komarev.com/ghpvc/?username=cool-dev-code)
 
-
-My name is **Shuja** and I do open source projects just for fun (To make me happy).
+## About Me
+My name is Shuja, and I work on open-source projects just for fun (to make me happy).
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
-Hopefully they can be useful to you as well.
+Hopefully, they can be useful to you as well.
+
+- 🔭 Currently working on... Multiple Projects
+- 🌱 Currently learning ... (Kotlin)
+- 👯 Looking to collaborate on ... (Android Development)
+- 🤔 Looking for help with ... (Kotlin Development)
+- 💬 Ask me about ... (any mentioned programming language)
+- 📫 How to reach me: on my ... (Discord)
+- 😄 Pronouns: ... (He/Him)
+- ⚡ Fun fact: ... (I am boring person)
 
 ### Contact
 - If you want to contact me, join my [Discord server](https://discord.gg/9mjwNGJHWH).
