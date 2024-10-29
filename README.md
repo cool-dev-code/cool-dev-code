@@ -13,7 +13,7 @@ My name is Shuja, and I work on open-source projects just for fun (to make me ha
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
 Hopefully, they can be useful to you as well.
 
-- 🔭 Currently working on... Multiple Projects
+- 🔭 Currently working on... Multiple Projects main is (Android development)
 - 🌱 Currently learning ... (Kotlin)
 - 👯 Looking to collaborate on ... (Android Development)
 - 🤔 Looking for help with ... (Kotlin Development)
