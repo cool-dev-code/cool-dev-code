@@ -26,10 +26,13 @@ Hopefully, they can be useful to you as well.
 - If you want to contact me, join my [Discord server](https://discord.gg/9mjwNGJHWH).
 
 ### Socials
-[![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9mjwNGJHWH)
-[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ShujaPlays)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shuja__Ahmed)
-[![Instagram](https://img.shields.io/badge/instagram-9F358B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shuja_plays)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9mjwNGJHWH)
+[![X Twitter](https://img.shields.io/badge/X%20Twitter-000000?style=for-the-badge&logo=X)](https://twitter.com/Shuja__Ahmed)
+[![X Google Dev](https://img.shields.io/badge/Google%20Dev-ffffff?style=for-the-badge&logo=Google)](https://g.dev/ShujaAhmed)
+
+[hidden]:[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shuja_plays)
+[hidden]:[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ShujaPlays)
+
 
 ### Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=cool-dev-code&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
