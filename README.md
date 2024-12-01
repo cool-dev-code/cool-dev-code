@@ -33,7 +33,7 @@ Hopefully, they can be useful to you as well.
 [hidden]:[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shuja_plays)
 [hidden]:[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ShujaPlays)
 
-
+---
 ### Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=cool-dev-code&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
 
