@@ -1,5 +1,5 @@
 <!--
-**Shuja-Ahmed-Official/Shuja-Ahmed-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**Github/Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
 ![Header](./github-header-image.png)
@@ -13,14 +13,14 @@ My name is Shuja, and I work on open-source projects just for fun (to make me ha
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
 Hopefully, they can be useful to you as well.
 
-- 🔭 Currently working on... Multiple Projects main is (Android development)
+- 🔭 Currently working on... Multiple Projects, main is (Android development)
 - 🌱 Currently learning ... (Kotlin)
 - 👯 Looking to collaborate on ... (Android Development)
 - 🤔 Looking for help with ... (Kotlin Development)
 - 💬 Ask me about ... (any mentioned programming language)
 - 📫 How to reach me: on my ... (Discord)
 - 😄 Pronouns: ... (He/Him)
-- ⚡ Fun fact: ... (I am boring person)
+- ⚡ Fun fact: ... (I am a boring person)
 
 ### Contact
 - If you want to contact me, join my [Discord server](https://discord.gg/9mjwNGJHWH).
