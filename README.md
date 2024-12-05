@@ -17,10 +17,10 @@ Hopefully, they can be useful to you as well.
 - 🌱 Currently learning ... (Kotlin)
 - 👯 Looking to collaborate on ... (Android Development)
 - 🤔 Looking for help with ... (Kotlin Development)
-- 💬 Ask me about ... (any mentioned programming language)
-- 📫 How to reach me: on my ... (Discord)
+- 💬 Ask me about ... (any mentioned Programming Language)
+- 📫 How to reach me: on ... (Discord)
 - 😄 Pronouns: ... (He/Him)
-- ⚡ Fun fact: ... (I am a boring person)
+- ⚡ Fun fact: ... (I am a Boring person)
 
 ### Contact
 - If you want to contact me, join my [Discord server](https://discord.gg/9mjwNGJHWH).
