@@ -26,9 +26,7 @@ Hopefully, they can be useful to you as well.
 - If you want to contact me, join my [Discord server](https://discord.gg/9mjwNGJHWH).
 
 ### Socials
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9mjwNGJHWH)
-[![X Twitter](https://img.shields.io/badge/X%20Twitter-000000?style=for-the-badge&logo=X)](https://twitter.com/Shuja__Ahmed)
-[![X Google Dev](https://img.shields.io/badge/Google%20Dev-ffffff?style=for-the-badge&logo=Google)](https://g.dev/ShujaAhmed)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&color=5865F2&logoColor=white)](https://discord.gg/9mjwNGJHWH) [![GoogleDev](https://img.shields.io/badge/Google%20Dev-%231877F2.svg?logo=Google&logoColor=white&color=03599B)](https://g.dev/ShujaAhmed) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Shuja_Ahmed/) [![X](https://img.shields.io/badge/%20Twitter-%231877F2.svg?logo=X&logoColor=white&color=000000)](https://twitter.com/Shuja__Ahmed ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuja-ahmed-380b0515a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27968719/shuja-ahmed)
 
 [hidden]:[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shuja_plays)
 [hidden]:[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ShujaPlays)
