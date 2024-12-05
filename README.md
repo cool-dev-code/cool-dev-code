@@ -1,11 +1,8 @@
-<!--
-**Github/Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
-
+<!--**Github/Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![Header](./github-header-image.png)
-
 # 👋 Hi, I'm Shuja Ahmed
-### Future Software Engineer😎
+Future Software Engineer 😎
+###
 ![Profile Views](https://komarev.com/ghpvc/?username=cool-dev-code)
 
 ## About Me
