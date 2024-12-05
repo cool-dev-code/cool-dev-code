@@ -35,21 +35,16 @@ Hopefully, they can be useful to you as well.
 
 ---
 ### Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=cool-dev-code&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cool-dev-code&theme=tokyonight&bg_color=ffffff&border_radius=25&hide_border=true)](https://git.io/streak-stats)
 
 ### Stats
 <div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=cool-dev-code&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-dev-code&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=cool-dev-code&theme=tokyonight&show_icons=true&hide_title=true&hide_border=true&border_radius=25&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-dev-code&theme=tokyonight&&hide_title=true&hide_border=true&border_radius=25&layout=compact&langs_count=4">
 </div>
 
-
 ###
-
 ---
 <h4 align="center">- Contribution Snake! -</h4>
-<br clear="both">
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
 
