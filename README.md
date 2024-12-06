@@ -39,6 +39,6 @@ Hopefully, they can be useful to you as well.
 ---
 <h4 align="center">- Contribution Snake! -</h4>
 <p align="center">
-    <img src="https://github.com/cool-dev-code/cool-dev-code/blob/images/github-contribution-grid-snake.svg#gh-light-mode-only"  alt="Snake Light Animation" />
-    <img src="https://github.com/cool-dev-code/cool-dev-code/blob/images/github-contribution-grid-snake-dark.svg#gh-dark-mode-only " alt="Snake Dark Animation" />
+    <img src="https://github.com/cool-dev-code/cool-dev-code/blob/images/github-contribution-grid-snake.svg#gh-light-mode-only alt="Snake Light Animation""/>
+    <img src="https://github.com/cool-dev-code/cool-dev-code/blob/images/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Dark Animation"/>
 </p>
