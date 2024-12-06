@@ -38,5 +38,7 @@ Hopefully, they can be useful to you as well.
 ###
 ---
 <h4 align="center">- Contribution Snake! -</h4>
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
+<p align="center">
+    <img src="https://github.com/cool-dev-code/cool-dev-code/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"  alt="Snake Light Animation" />
+    <img src="https://github.com/cool-dev-code/cool-dev-code/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only " alt="Snake Dark Animation" />
+</p>
