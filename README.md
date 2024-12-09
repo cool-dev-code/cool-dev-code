@@ -3,11 +3,12 @@
 # 👋 Hi, I'm Shuja Ahmed
 Future Software Engineer 😎
 ###
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=cool-dev-code&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
 <img src="https://img.shields.io/badge/dynamic/json?&label=Stars&color=009933&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/cool-dev-code" alt="Stars" ></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Forks&color=D14836&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/cool-dev-code" alt="Forks"></a>
 </p>
+<a href="https://discord.com/users/754742219587584080"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/754742219587584080"/></a>
 
 ## About Me
 My name is Shuja, and I work on open-source projects just for fun (to make me happy).
