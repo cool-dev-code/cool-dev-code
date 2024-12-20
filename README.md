@@ -20,9 +20,9 @@ Hopefully, they can be useful to you as well.
 - 👯 Looking to collaborate on ... (Android Development)
 - 🤔 Looking for help with ............ (Kotlin Development)
 - 💬 Ask me about ........................... (any mentioned Programming Language)
-- 📫 How to reach me: on ............. (Discord)
+- 📫 How to reach me: on ............. (GitHub/Discord)
 - 😄 Pronouns: ................................... (He/Him)
-- ⚡ Fun fact: ..................................... (I am a Boring person)
+- ⚡ Fun fact: ..................................... (I am boring person)
 
 ### Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&color=5865F2&logoColor=white)](https://discord.gg/9mjwNGJHWH) [![GoogleDev](https://img.shields.io/badge/Google%20Dev-%231877F2.svg?logo=Google&logoColor=white&color=cc0000)](https://g.dev/ShujaAhmed) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Shuja_Ahmed/) [![X](https://img.shields.io/badge/%20Twitter-%231877F2.svg?logo=X&logoColor=white&color=000000)](https://twitter.com/Shuja__Ahmed ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuja-ahmed-380b0515a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27968719/shuja-ahmed)
