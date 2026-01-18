@@ -1,12 +1,12 @@
 <!--**Github/Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![Header](https://github.com/cool-dev-code/cool-dev-code/blob/images/github-header-image.png)
+![Header](https://github.com/code-fanatic/code-fanatic/blob/images/github-header-image.png)
 # 👋 Hello 😊
 Welcome to my profile
 ###
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=cool-dev-code&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/badge/dynamic/json?&label=Stars&color=009933&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/cool-dev-code" alt="Stars" ></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Forks&color=D14836&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/cool-dev-code" alt="Forks"></a>
+<img src="https://komarev.com/ghpvc/?username=code-fanatic&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/badge/dynamic/json?&label=Stars&color=009933&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/code-fanatic" alt="Stars" ></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Forks&color=D14836&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/code-fanatic" alt="Forks"></a>
 </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/754742219587584080?bg=000000&borderRadius=25px&theme=dark&idleMessage=Idle%20or%20Offline&hideTag=true&showDisplayName=true)](https://discord.com/users/754742219587584080)
@@ -33,18 +33,18 @@ Hopefully, they can be useful to you as well.
 
 ---
 ### Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=cool-dev-code&theme=tokyonight&bg_color=ffffff&border_radius=25&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=code-fanatic&theme=tokyonight&bg_color=ffffff&border_radius=25&hide_border=true)](https://git.io/streak-stats)
 
 ### Stats
 <div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=cool-dev-code&theme=tokyonight&show_icons=true&hide_title=true&hide_border=true&border_radius=25&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-dev-code&theme=tokyonight&&hide_title=true&hide_border=true&border_radius=25&layout=compact&langs_count=4">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=code-fanatic&theme=tokyonight&show_icons=true&hide_title=true&hide_border=true&border_radius=25&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-fanatic&theme=tokyonight&&hide_title=true&hide_border=true&border_radius=25&layout=compact&langs_count=4">
 </div>
 
 ###
 ---
 <h4 align="center">- Contribution Snake! -</h4>
 <p align="center">
-    <img src="https://github.com/cool-dev-code/cool-dev-code/blob/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-    <img src="https://github.com/cool-dev-code/cool-dev-code/blob/images/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+    <img src="https://github.com/code-fanatic/code-fanatic/blob/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+    <img src="https://github.com/code-fanatic/code-fanatic/blob/images/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </p>
