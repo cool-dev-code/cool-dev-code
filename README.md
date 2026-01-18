@@ -8,7 +8,8 @@ Future Software Engineer 😎
 <img src="https://img.shields.io/badge/dynamic/json?&label=Stars&color=009933&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/cool-dev-code" alt="Stars" ></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Forks&color=D14836&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/cool-dev-code" alt="Forks"></a>
 </p>
-<a href="https://discord.com/users/754742219587584080"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/754742219587584080"/></a>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/754742219587584080?bg=000000&borderRadius=25px&theme=dark&idleMessage=Idle%20or%20Offline&hideTag=true&showDisplayName=true)](https://discord.com/users/754742219587584080)
 
 ## About Me
 My name is Shuja, and I work on open-source projects just for fun (to make me happy).
