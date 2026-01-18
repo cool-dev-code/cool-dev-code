@@ -9,7 +9,7 @@ Welcome to my profile
 <img src="https://img.shields.io/badge/dynamic/json?&label=Forks&color=D14836&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/code-fanatic" alt="Forks"></a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/754742219587584080?bg=000000&borderRadius=25px&theme=dark&idleMessage=Idle%20or%20Offline&hideTag=true&showDisplayName=true)](https://discord.com/users/754742219587584080)
+[![Discord Presence](https://lanyard.cnrad.dev/api/754742219587584080?bg=000000&borderRadius=25px&theme=dark&idleMessage=No%20Activity&hideTag=true&showDisplayName=true)](https://discord.com/users/754742219587584080)
 
 ## About Me
 My name is Shuja, Im a Software Engineer and I work on open-source projects just for fun (to make me happy).
