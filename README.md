@@ -1,7 +1,8 @@
 <!--**Github/Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![Header](https://github.com/cool-dev-code/cool-dev-code/blob/images/github-header-image.png)
-# 👋 Hi, This is Zorito
-Future Software Engineer 😎
+# 👋 Hi
+Welcome to my profile
+Im a Software Engineer
 ###
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=cool-dev-code&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
