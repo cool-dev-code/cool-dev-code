@@ -2,7 +2,6 @@
 ![Header](https://github.com/cool-dev-code/cool-dev-code/blob/images/github-header-image.png)
 # 👋 Hi
 Welcome to my profile
-Im a Software Engineer
 ###
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=cool-dev-code&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
@@ -13,7 +12,7 @@ Im a Software Engineer
 [![Discord Presence](https://lanyard.cnrad.dev/api/754742219587584080?bg=000000&borderRadius=25px&theme=dark&idleMessage=Idle%20or%20Offline&hideTag=true&showDisplayName=true)](https://discord.com/users/754742219587584080)
 
 ## About Me
-My name is Shuja, and I work on open-source projects just for fun (to make me happy).
+My name is Shuja, Im a Software Engineer and I work on open-source projects just for fun (to make me happy).
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
 Hopefully, they can be useful to you as well.
 
