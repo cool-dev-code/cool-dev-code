@@ -33,7 +33,7 @@ Hopefully, they can be useful to you as well.
 
 ---
 ### Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=code-fanatic&theme=tokyonight&bg_color=ffffff&border_radius=25&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=code-fanatic&theme=tokyonight&hide_border=true&border_radius=25&background=000000)](https://git.io/streak-stats)
 
 ### Stats
 <div>
