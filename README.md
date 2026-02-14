@@ -17,7 +17,7 @@ My name is Shuja, Im a Software Engineer and I work on open-source projects just
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
 Hopefully, they can be useful to you as well.
 
-- <img src="https://raw.githubusercontent.com/code-fanatic/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently working on ............... Multiple Projects, main is (Android development)
+- <img src="https://raw.githubusercontent.com/code-fanatic/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently working on ............... Portfolio
 - <img src="https://raw.githubusercontent.com/code-fanatic/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Currently learning ..................... Kotlin
 - <img src="https://raw.githubusercontent.com/code-fanatic/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Looking to collaborate on ..... Android Development
 - <img src="https://raw.githubusercontent.com/code-fanatic/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Looking for help with .............. Kotlin Development
