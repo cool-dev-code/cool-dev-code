@@ -19,7 +19,7 @@ Hopefully, they can be useful to you as well.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently working on ............... Multiple Projects, main is (Android development)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Currently learning ..................... Kotlin
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Men%20with%20Bunny%20Ears.png" alt="Men with Bunny Ears" width="25" height="25" /> Looking to collaborate on ..... Android Development
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Looking to collaborate on ..... Android Development
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Looking for help with .............. Kotlin Development
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Ask me about ............................. any mentioned Programming Language
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" /> How to reach me: on ............... GitHub/Discord
