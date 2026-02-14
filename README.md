@@ -36,12 +36,6 @@ Hopefully, they can be useful to you as well.
 ## Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=code-fanatic&theme=tokyonight&hide_border=true&border_radius=25&background=000000)](https://git.io/streak-stats)
 
-## Stats
-<div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=code-fanatic&theme=tokyonight&show_icons=true&hide_title=true&hide_border=true&border_radius=25&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-fanatic&theme=tokyonight&&hide_title=true&hide_border=true&border_radius=25&layout=compact&langs_count=4">
-</div>
-
 ---
 <h4 align="center">- Contribution Snake! -</h4>
 <p align="center">
