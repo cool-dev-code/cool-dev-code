@@ -35,6 +35,8 @@ Hopefully, they can be useful to you as well.
 ---
 ## Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=code-fanatic&theme=tokyonight&hide_border=true&border_radius=25&background=000000)](https://git.io/streak-stats)
+## Repo Stats
+[![Repo Stats](https://github-contributor-stats.vercel.app/api?username=code-fanatic&limit=5&theme=tokyonight&hide_border=true&border_radius=25&background=000000&combine_all_yearly_contributions=true)](https://github.com/code-fanatic)
 
 ---
 <h4 align="center">- Contribution Snake! -</h4>
